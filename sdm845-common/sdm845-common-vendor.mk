@@ -80,6 +80,7 @@ PRODUCT_PACKAGES += \
     libantradio \
     QtiTelephonyService \
     ims \
+    imssettings \
     CNEService \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
